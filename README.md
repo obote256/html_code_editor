@@ -1,6 +1,4 @@
 # html_code_editor
-# HTML Code Editor
-
 A simple and powerful HTML code editor that allows you to write and instantly preview your HTML code directly in your web browser. It works seamlessly both online and offline, making it your perfect companion for quick HTML experiments or learning.
 
 ## Features
